@@ -1,3 +1,8 @@
-function
+import { interface-logic.js} from './interface-logic.js';
 
-exports. /* insert*/ = /*  */
+$(document).ready(function(){
+  $('#ageForm').submit(function(event){
+    event.preventDefualt();
+    let
+  })
+})
