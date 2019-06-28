@@ -1,6 +1,6 @@
 # _Galactic Calendar_
 
-#### _{Brief description of application}, June 2019_
+#### _An age calculator for different planets, June 2019_
 
 #### By _**Dominic Montelongo**_
 
