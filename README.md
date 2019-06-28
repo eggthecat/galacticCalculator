@@ -8,6 +8,25 @@
 
 _{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
 
+## Specs
+
+| Behavior | Input | Output |
+| ------------- |:-------------:| :-----:|
+| Take in a user's birthday | January 01, 2000  | - |
+| Calculates their age in Earth years |January 1, 2000 |Earth years |
+| Produce age in Mercury years |January 1, 2000 |years on Mercury |
+| Produce age in Venus years |January 1, 2000 |years on Venus |
+| Produce age in Mars years |January 1, 2000 |years on Mars |
+| Produce age in Jupiter years |January 1, 2000 |years on Jupiter |
+| Produce years left or extra years lived on Earth | | |
+| Produce years left or extra years lived on Mercury || |
+| Produce years left or extra years lived on Venus | | |
+| Produce years left or extra years lived on Mars | | |
+| Produce years left or extra years lived on Jupiter | | |
+
+
+
+
 ## Setup/Installation Requirements
 
 * _This is a great place_
