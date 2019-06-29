@@ -4,7 +4,8 @@ $(document).ready(function(){
   $('#ageForm').submit(function(event){
     event.preventDefualt();
     let  = $('#userAge').val();
-    var output =  
+    var output =  ageForm(age);
+    output.(function(element))
 
   })
 })
